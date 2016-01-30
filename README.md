@@ -8,8 +8,8 @@ CS client. It's especially useful in pair with Bro Network Security Monitor.
 
 Please visit following links if not familiar with CS or BRO:
 
-https://criticalstack.zendesk.com/
-https://www.bro.org/
+* https://criticalstack.zendesk.com/
+* https://www.bro.org/
 
 To understand how Bro takes care of intelligence data, please review:
 
