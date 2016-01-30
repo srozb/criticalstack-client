@@ -13,8 +13,8 @@ Please visit following links if not familiar with CS or BRO:
 
 To understand how Bro takes care of intelligence data, please review:
 
-http://blog.bro.org/2014/01/intelligence-data-and-bro_4980.html
-https://www.bro.org/sphinx-git/frameworks/intel.html
+* http://blog.bro.org/2014/01/intelligence-data-and-bro_4980.html
+* https://www.bro.org/sphinx-git/frameworks/intel.html
 
 ## Quickstart
 
